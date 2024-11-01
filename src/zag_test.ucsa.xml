@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_UCSA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <UCSA>
+    <HEADER>
+     <ID>ZAG_TEST</ID>
+     <VERSION>A</VERSION>
+     <CANONICALURL>/zag_test</CANONICALURL>
+    </HEADER>
+    <SHORTTEXT>
+     <ID>ZAG_TEST</ID>
+     <VERSION>A</VERSION>
+     <LANGU>E</LANGU>
+     <SHORTTEXT>Test</SHORTTEXT>
+    </SHORTTEXT>
+    <SUB_RFC_FUNCS>
+     <UCON_CA_RFCFUNC>
+      <ID>ZAG_TEST</ID>
+      <VERSION>A</VERSION>
+      <RFCFUNCNAME>RFC_PING</RFCFUNCNAME>
+     </UCON_CA_RFCFUNC>
+    </SUB_RFC_FUNCS>
+   </UCSA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
